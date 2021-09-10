@@ -3,7 +3,7 @@ Gym Website using Bootstrap
 
 ## Hosting the Website
 
-[A live version of this Website is hosted using github pages](https://nouraan-ahmed.github.io/Travel/)
+[A live version of this Website is hosted using github pages](https://nouraan-ahmed.github.io/Fitness-Time/)
 
 
 <div align="center">
